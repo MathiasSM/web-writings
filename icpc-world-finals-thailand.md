@@ -1,7 +1,6 @@
 ---
 title: "ACM-ICPC World Finals - Thailand"
 date: 2016-05
-lastModifiedAt: 2017-09-03
 description: Wolrd Finals of one the oldest and most prestigeous Programming Contents, in Phuket, Thailand
 path: /blog/acm-icpc-world-finals-thailand
 ---

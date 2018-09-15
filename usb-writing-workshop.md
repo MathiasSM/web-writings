@@ -1,8 +1,7 @@
 ---
 title: Writing Workshop at the USB
 description: A Creative Writing workshop given by UCV students as required community service
-lastModifiedAt: 2017-09-03
-date: 2015-01
+date: 2015-02
 path: /blog/creative-writing-workshop
 ---
 

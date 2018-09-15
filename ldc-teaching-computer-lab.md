@@ -1,7 +1,6 @@
 ---
 title: "LDC: Teaching Computing Lab"
 date: 2015-06
-lastModifiedAt: 2017-09-03
 description: System and network administration and IT support for students and faculty
 path: /blog/ldc
 ---

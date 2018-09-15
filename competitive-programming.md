@@ -2,13 +2,9 @@
 title: Competitive Programming
 date: 2015-01
 description: Solving programming problems within a strict timeframe and specifications of memory or running time limits
-lastModifiedAt: 2017-09-03
 path: /blog/competitive-programming
+TOC: true
 ---
-
-[[toc]]
-
-## Table of Contents
 
 After a great math professor convinced me and two other students, we started (re)learning to code sooner and with one goal in mind: To compete in the "Coding Marathons" (how they're commonly called in my university). 
 
