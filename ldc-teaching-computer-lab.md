@@ -3,6 +3,7 @@ title: "LDC: Teaching Computing Lab"
 date: 2015-06
 lastModifiedAt: 2017-09-03
 description: System and network administration and IT support for students and faculty
+path: /blog/ldc
 ---
 
 Even as hooked on Competitive Programming as I was, at almost the same time I started training, I joined the Teaching Computing Lab of the USB (_Laboratorio Docente de Computación_ or LDC). The unknown was calling for me everywhere I looked. It was my first trimester studying real computer science, and I got the opportunity to learn about networks and system administration here. I took it.

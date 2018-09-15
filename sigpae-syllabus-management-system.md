@@ -1,7 +1,9 @@
 ---
-title: "SISPAE: Syllabus Management System"
+title: "SIGPAE: Syllabus Management System"
 date: 2017-03
 description: Django wep application for transcription of courses Syllabi
+path: /blog/sigpae
+alo: "4444-44-44"
 ---
 
 As part of our **Software Engineering** course in the _Universidad Simón Bolívar_, eight (8) of us as Team (notice me) "Zenpy" developed, during five (5) weeks, a nice tool for the university's Academics Records Office.

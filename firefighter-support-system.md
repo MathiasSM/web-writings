@@ -2,6 +2,7 @@
 title: "Apolo: Firefighters Support System"
 description: Support System fro managing USB's Volunteer Firefighters activities
 date: 2017-01
+path: /blog/apolo-firefighters
 ---
 
 **Apolo**, how we called it, is a software system made as part of our **Information Systems** course in the _Universidad Simón Bolívar_. I led a team of eight (8) in charge of the "Operations" module for the CBVUSB (Volunteer Fire Corps of the USB) Support System. 

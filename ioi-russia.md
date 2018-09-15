@@ -3,6 +3,7 @@ title: "IOI: Russia"
 description: The International Olympiad in Informatiocs in Kazan, Russia
 date: 2016-07
 lastModifiedAt: 2017-09-03
+path: /blog/ioi-russia
 ---
 
 [[toc]]

@@ -3,6 +3,7 @@ title: Competitive Programming
 date: 2015-01
 description: Solving programming problems within a strict timeframe and specifications of memory or running time limits
 lastModifiedAt: 2017-09-03
+path: /blog/competitive-programming
 ---
 
 [[toc]]

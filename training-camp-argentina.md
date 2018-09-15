@@ -3,6 +3,7 @@ title: "Training Camp Argentina 2015"
 date: 2015-06
 lastModifiedAt: 2017-09-03
 description: A great Competitive Programming camp organized in Argentina for the LATAM region
+path: /blog/training-camp-argentina-2015
 ---
 
 [[toc]]

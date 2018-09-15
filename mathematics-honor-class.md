@@ -3,6 +3,7 @@ title: USB's Mathematics Honor Class
 description: A more formal and interesting approach to Math I, II (calculus) and III (algebra)
 date: 2014-10
 lastModifiedAt: 2017-09-03
+path: /blog/mathematics-honor-class
 ---
 
 I haven't even started classes; I was just enrolling in the _Universidad Simón Bolívar_ (USB). I don't remember how, but I found out there was an optional class, "Honor Math", that I could choose instead of the regular mathematics class. It was promised it was harder and there were no extra credits nor any extra gain for it. I decided to go for the introductory presentation.

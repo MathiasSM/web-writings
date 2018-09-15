@@ -2,6 +2,7 @@
 title: "Elgarson: Fashion web design"
 date: 2015-01
 description: Mobile and desktop design of a fashion-themed website for a client in France
+path: /blog/el-garson
 ---
 
 I was hired to coordinate with a France-based client the design and implementation a lifestyle-oriented website (famous people, fashion, that kind of stuff): _elgarson.com_ (now offline).
