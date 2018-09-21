@@ -1,6 +1,6 @@
 ---
 title: "Apolo: Firefighters Support System"
-description: Support System fro managing USB's Volunteer Firefighters activities
+description: Support System for managing USB's Volunteer Firefighters activities
 date: 2017-01
 path: /blog/apolo-firefighters
 ---

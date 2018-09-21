@@ -3,11 +3,8 @@ title: "Training Camp Argentina 2015"
 date: 2015-06
 description: A great Competitive Programming camp organized in Argentina for the LATAM region
 path: /blog/training-camp-argentina-2015
+TOC: true
 ---
-
-[[toc]]
-
-## Table Of Contents
 
 We were still babies at programming, to be honest. But the USB had competed in the Marrakech World Finals 2015 (Team Phoenix); there, the awesome guys from Argentina invited Venezuela to a Training Camp they had been running annually for 6 years. Yet, Team Phoenix couldn't go, as two out of three of its members had graduated.
 

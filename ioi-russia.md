@@ -1,13 +1,10 @@
 ---
-title: "IOI: Russia"
+title: "IOI - Russia"
 description: The International Olympiad in Informatiocs in Kazan, Russia
 date: 2016-07
 path: /blog/ioi-russia
+TOC: true
 ---
-
-[[toc]]
-
-## Table of Contents
 
 Out of lots of luck and training, I got to compete in the International Olympiads in Informatics. Now my goal is to train younger students to represent Venezuela in this great event!
 

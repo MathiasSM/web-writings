@@ -3,11 +3,8 @@ title: "ACM-ICPC World Finals - Thailand"
 date: 2016-05
 description: Wolrd Finals of one the oldest and most prestigeous Programming Contents, in Phuket, Thailand
 path: /blog/acm-icpc-world-finals-thailand
+TOC: true
 ---
-
-[[toc]]
-
-## Table of Contents
 
 After less than a year training for the ICPC competitions, Rubmary Rojas, Augusto Hidalgo and I, as team RAM (R.A.M. … y‘see?), classified for the ICPC World Finals in Thailand!
 

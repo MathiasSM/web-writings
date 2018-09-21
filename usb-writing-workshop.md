@@ -1,5 +1,5 @@
 ---
-title: Writing Workshop at the USB
+title: "Writing Workshop at the USB"
 description: A Creative Writing workshop given by UCV students as required community service
 date: 2015-02
 path: /blog/creative-writing-workshop

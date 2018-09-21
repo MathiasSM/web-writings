@@ -1,5 +1,5 @@
 ---
-title: USB's Mathematics Honor Class
+title: "USB's Mathematics Honor Class"
 description: A more formal and interesting approach to Math I, II (calculus) and III (algebra)
 date: 2014-10
 path: /blog/mathematics-honor-class

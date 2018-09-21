@@ -1,7 +1,8 @@
 ---
 title: Competitive Programming
 date: 2015-01
-description: Solving programming problems within a strict timeframe and specifications of memory or running time limits
+description: >
+  Solving programming problems within a strict timeframe and specifications of memory or running time limits
 path: /blog/competitive-programming
 TOC: true
 ---
