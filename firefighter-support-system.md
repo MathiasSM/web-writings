@@ -3,6 +3,7 @@ title: "Apolo: Firefighters Support System"
 description: Support System for managing USB's Volunteer Firefighters activities
 date: 2017-01
 path: /blog/apolo-firefighters
+project: 'Apolo'
 ---
 
 **Apolo**, how we called it, is a software system made as part of our **Information Systems** course in the _Universidad Simón Bolívar_. I led a team of eight (8) in charge of the "Operations" module for the CBVUSB (Volunteer Fire Corps of the USB) Support System. 
@@ -22,19 +23,6 @@ The whole module was to be planned (following RUP methodology), and a single sub
 **The Shifts submodule** provides an interface for managing service hours of each volunteer, the fixed shifts, the owed hours and the special shifts. Everything follows the corps protocols, as required.
 
 **The Services submodule** keeps records of every service the corps have attended: From wood fires to missing pets and injured people. They register the involved volunteers and their vehicles, the victims if any and their medical examination. They need all this information validated by the chief Firefighter at the service, and in paper, for legal purposes.
-
-
-### The development team
-
-+ Jose Acevedo
-+ Pablo Betancourt 
-+ Augusto Higalgo
-+ Irina Marcano
-+ Jonathan Reyes
-+ Rubmary Rojas
-+ Mathias San Miguel
-+ Carlos Serrada
-+ Juan Tepedino
 
 ***
 
