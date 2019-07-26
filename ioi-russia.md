@@ -30,7 +30,7 @@ They can be summed up in the following:
 
 >I want to train on this, even if I can’t compete anymore, because it’s a really powerful skill. If I can train younger guys so that they become better at it and can win some medals for Venezuela, then I’d be extra-accomplished.
 
-## That Big Country on the Map <small>(That's not China)</small>
+## That Big Country on the Map (That's not China)
 
 ### Cold weather, cold people? Neither
 
