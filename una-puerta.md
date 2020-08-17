@@ -18,7 +18,7 @@ Meses sentado o recorriendo el muro como si lo vigilara y protegiera, de nadie, 
 
 Me disculpo fuerte, como intentando que un mensaje llegue a ningún lugar. Sin romper el silencio me vuelvo y corro lejos, hasta que ni la puerta ni el muro puedo ver. Me detengo. Escucho el viento, espero.
 
-De vez en cuando, escucho murmullos, risas, sollozos, ¿lluvia?, vida, de algún lugar. De otro lugar. Se perfectamente hacia donde está la puerta. La he perido de vista pero sigo ahí. Y escucho un chirrido y algo pesado moverse. Y lo tengo en frente. El muro de concreto sin pintar, y empiezo a andar.
+De vez en cuando, escucho murmullos, risas, sollozos, ¿lluvia?, vida, de algún lugar. De otro lugar. Se perfectamente hacia donde está la puerta. La he perdido de vista pero sigo ahí. Y escucho un chirrido y algo pesado moverse. Y lo tengo en frente. El muro de concreto sin pintar, y empiezo a andar.
 
 La puerta no está.
 
