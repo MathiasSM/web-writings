@@ -1,6 +1,7 @@
 ---
 title: "Training Camp Argentina 2015"
-date: 2015-06
+date: 2015-06-01
+lastModifiedAt: 2018-09-21
 description: A great Competitive Programming camp organized in Argentina for the LATAM region
 path: /blog/training-camp-argentina-2015
 TOC: true

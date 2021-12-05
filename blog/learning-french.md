@@ -1,6 +1,7 @@
 ---
 title: "Learning French"
-date: 2015-01
+date: 2015-01-01
+lastModifiedAt: 2019-09-21
 description: French as a third language, through classes, internet and movies
 path: /blog/french-start
 ---

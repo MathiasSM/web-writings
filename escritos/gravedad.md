@@ -1,6 +1,7 @@
 ---
 title: "Gravedad"
 date: 2012-10-31
+lastModifiedAt: 2020-08-17
 description: 
 path: /escritos/gravedad
 language: es

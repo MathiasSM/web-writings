@@ -1,6 +1,7 @@
 ---
 title: "SIGPAE: Syllabus Management System"
-date: 2017-03
+date: 2017-03-01
+lastModifiedAt: 2018-10-14
 description: Django wep application for transcription of courses Syllabi
 path: /blog/sigpae
 project: 'SIGPAE'

@@ -1,6 +1,7 @@
 ---
 title: "Una Puerta"
 date: 2020-08-09
+lastModifiedAt: 2020-08-17
 description: Texto sobre la soledad y la obsesión.
 path: /escritos/una-puerta
 language: es

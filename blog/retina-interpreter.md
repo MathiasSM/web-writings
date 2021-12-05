@@ -1,6 +1,7 @@
 ---
 title: "Retyna: A Ruby interpreter for Retina"
-date: 2017-03
+date: 2017-03-01
+lastModifiedAt: 2018-10-14
 description: Homemade Ruby interpreter for Retina language
 path: /blog/retyna
 ---
