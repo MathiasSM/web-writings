@@ -1,0 +1,124 @@
+# Build and deploy the site from this repo's content, using the generator kit
+# released by hakyll-site (https://github.com/MathiasSM/hakyll-site).
+#
+#   * gamma -> this repo's own GitHub Pages (preview), on pushes to `new`
+#   * prod  -> mathiassm.github.io, on pushes to `master`
+name: Build and deploy
+
+on:
+  push:
+    branches: [new, master]
+  pull_request:
+  # hakyll-site announces a new kit release (see its notify-content.yml)
+  repository_dispatch:
+    types: [kit-released]
+  # Refresh periodically to pick up kit + content drift
+  schedule:
+    - cron: "0 6 1 * *" # 1st of every month at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: site-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/master' }}
+
+jobs:
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          path: content
+
+      - name: Download the generator kit
+        run: |
+          curl -fsSL -o site-kit.tar.gz https://github.com/MathiasSM/hakyll-site/releases/latest/download/site-kit.tar.gz
+          curl -fsSL -o site-kit.tar.gz.sha256 https://github.com/MathiasSM/hakyll-site/releases/latest/download/site-kit.tar.gz.sha256
+          sha256sum -c site-kit.tar.gz.sha256
+          tar -xzf site-kit.tar.gz
+          chmod +x site
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Build
+        env:
+          CONTENT_DIR: content
+          # prod domain on master, gamma domain elsewhere (incl. PRs and dispatch)
+          SITE_DOMAIN: ${{ github.ref_name == 'master' && 'mathiassm.dev' || 'mathiassm.github.io/web-writings' }}
+        run: ./site build -v
+
+      - name: Check
+        run: ./site check
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site/
+          include-hidden-files: true
+
+  checks:
+    name: Site checks
+    needs: [build]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/download-artifact@v8
+        with:
+          name: github-pages
+          path: _site
+
+      - name: Set up Java (for vnu)
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: HTML validation (W3C Nu Html Checker)
+        run: |
+          curl -fsSL -o vnu.jar https://github.com/validator/validator/releases/latest/download/vnu.jar
+          curl -fsSL -o vnu.jar.sha1 https://github.com/validator/validator/releases/latest/download/vnu.jar.sha1
+          sha1sum -c vnu.jar.sha1
+          java -jar vnu.jar --skip-non-html --also-check-css --also-check-svg --errors-only _site
+
+      - name: Set up Node (for Lighthouse)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Lighthouse CI (report-only)
+        continue-on-error: true
+        run: |
+          npm install -g @lhci/cli
+          lhci autorun --config=config/lighthouserc.json
+
+      - name: Link check (lychee)
+        if: github.ref_name == 'master'
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config config/lychee.toml --no-progress _site
+          fail: true
+
+  deploy:
+    name: Deploy (to this repo's Pages)
+    if: github.ref_name == 'new'
+    needs: [build, checks]
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        permissions:
+          pages: write
+          id-token: write
+        uses: actions/deploy-pages@v5

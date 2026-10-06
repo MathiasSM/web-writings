@@ -1,0 +1,12 @@
+# lychee link checker configuration (https://github.com/lycheeverse/lychee).
+# Replaces the external link check Hakyll had disabled (see cabal.project in hakyll-site).
+#
+# Exclude the site's own domains (canonical/OG URLs point at the live site) and
+# X/Twitter (which replies with oversized headers that break naive HTTP clients).
+exclude = [
+    'mathiassm\.dev',
+    'mathiassm\.github\.io',
+    'twitter\.com',
+    'x\.com',
+    't\.co',
+]

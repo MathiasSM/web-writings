@@ -34,12 +34,13 @@ It was tough, but we somehow managed to arrange everything after lots of people 
   + **Medallia** - Networking awesomeness and internships open.
 + Saturday codeforces because we weren’t tired enough.
 
-We learned a lot, a freaking lot, then and months after, digesting all that information. This was a major help for us at the regionals when [we classified to the World Finals](/adventures/icpc-world-finals-thailand).
+We learned a lot, a freaking lot, then and months after, digesting all that information. This was a major help for us at the regionals when [we classified to the World Finals](/blog/acm-icpc-world-finals-thailand).
 
 ### Topics treated in classes
 
 Be sure to expand every item to see specific topics.
 
+```{=html}
 <details>
   <summary>Graphs</summary>
   <ul>
@@ -196,6 +197,7 @@ Be sure to expand every item to see specific topics.
     <li>Nim</li>
   </ul>
 </details>
+```
 
 You can check the [official website for Training Camp Argentina 2015](https://sites.google.com/site/trainingcampargentina2015/) (in Spanish).
 
