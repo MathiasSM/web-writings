@@ -1,5 +1,7 @@
 ---
 title: "Cool projects I've worked on"
+index: true
+group: showcase
 description: "Information, documentation and more, from different projects I've worked on."
 type: page
 path: "/showcase"

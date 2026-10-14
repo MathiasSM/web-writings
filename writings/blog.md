@@ -1,5 +1,7 @@
 ---
 title: "A Blog of Sorts"
+index: true
+group: blog
 description: "Mathias' writings on Computer Science, work, life and anything."
 type: page
 path: "/blog"

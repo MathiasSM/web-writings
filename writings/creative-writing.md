@@ -1,5 +1,7 @@
 ---
 title: "Escritura Creativa"
+index: true
+group: creative-writing
 description: "Algunos escritos interesantes, irrelevantes, creativos, sobre la vida, las personas y las cosas."
 path: "/escritos"
 nav: '<i><mark>Es</mark>critos</i>'

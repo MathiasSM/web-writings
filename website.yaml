@@ -1,0 +1,81 @@
+# Site configuration.
+#
+# This is the source of truth for the site's identity and the metadata behind
+# the files the generator produces (robots.txt, manifest, security.txt,
+# funding.json, …). It lives in the content repository, so the generator stays
+# content-agnostic.
+#
+# A few fields can be overridden at build time via environment variables; see
+# `.env.example` in the generator (hakyll-site) repository.
+
+# The site's identity. `name`/`description` become the home page title, and
+# `author`/`copyrightYear` the footer.
+site:
+  name: MathiasSM
+  description: Software Development Engineer
+  author: Mathias San Miguel
+  copyrightYear: 2013
+  domain: mathiassm.dev
+  twitterHandle: mathiassm
+
+# How to reach the site owner. `page` is the path of the contact page, used by
+# security.txt and trust.txt.
+contact:
+  email: mathiassanmiguel@gmail.com
+  page: /contact
+
+# Web app manifest colours (used by manifest.webmanifest and the favicon).
+manifest:
+  backgroundColor: "#fff"
+  themeColor: "hsl(210, 75%, 50%)"
+
+# MathJax CDN version used to render math on pages that use it. Required.
+mathjax:
+  version: "4.1.3"
+
+# Atom feed size (number of most recent posts per feed).
+feed:
+  size: 20
+
+# .well-known/security.txt, including how far in advance of `expires` the build
+# must start failing.
+security:
+  preferredLanguages: en, es
+  expires: "2027-12-31T22:59:00.000Z"
+  expirationMarginDays: 90
+
+# robots.txt disallow rules.
+robots:
+  disallow: [/example, /404.html]
+
+# .well-known/trust.txt: whether the site content may be used for AI training.
+trust:
+  trainingAllowed: "no"
+
+# funding.json manifest: who is being funded, and how.
+funding:
+  entity:
+    email: mathiassanmiguel@gmail.com
+    description: "Mathias is a Software Developer Engineer."
+  projects:
+    - guid: mathiassm-website
+      name: "MathiasSM.dev (website)"
+      description: "My personal website. Note: This is just a test of the funding.json manifest."
+      repositoryUrl: "https://github.com/MathiasSM/hakyll-site"
+      repositoryWellKnown: "https://github.com/MathiasSM/hakyll-site/blob/master/static/.well-known/funding-manifest-urls"
+      licenses: ["spdx:GPL-3.0-or-later"]
+      tags: ["web-development", "software-engineering", "programming"]
+  channels:
+    - guid: mybank
+      type: bank
+      address: ""
+      description: "Spanish bank. Can accept direct transfers. Email me for details."
+  plans:
+    - guid: custom-eur
+      status: active
+      name: "Single Payment"
+      description: "You may donate any amount you're comfortable with."
+      amount: 0
+      currency: EUR
+      frequency: one-time
+      channels: ["mybank"]

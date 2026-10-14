@@ -1,6 +1,8 @@
 # Post frontmatter
 
-Posts live in `data/posts/<group>/` (`blog`, `escritos`). This README is outside
+Posts live in `writings/<group>/` (`blog`, `creative-writing`). Standalone pages
+and group index pages are flat files directly under `writings/`; a group index
+page is marked with `index: true` and `group: <name>`. This README is outside
 those globs, so Hakyll does not process it.
 
 | Key | Required | Meaning |
