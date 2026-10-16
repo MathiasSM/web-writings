@@ -1,19 +1,52 @@
-# Post frontmatter
+Content for [mathiassm.dev](https://mathiassm.dev)
+================================================================================
 
-Posts live in `writings/<group>/` (`blog`, `creative-writing`). Standalone pages
-and group index pages are flat files directly under `writings/`; a group index
-page is marked with `index: true` and `group: <name>`. This README is outside
-those globs, so Hakyll does not process it.
+This repository contains all/most content used to build my personal website [mathiassm.dev](https://mathiassm.dev). I currently use a static site generator ([MathiaSM/hakyll-site](https://github.com/MathiasSM/hakyll-site)) to build it. It requires some minimal structure and metadata which I'll explain in this readme file.
 
-| Key | Required | Meaning |
-| --- | --- | --- |
-| `title` | yes | Post title. |
-| `date` | yes | Published date (`YYYY-MM-DD`); used for ordering. |
-| `path` | yes | Output URL, e.g. `/blog/my-post` (the route comes from here). |
-| `description` | no | Short summary: post lists and `<meta name="description">`. |
-| `lastModifiedAt` | no | Shows a "last updated" line and the sitemap `lastmod`. |
-| `language` | no | `en` (default), `es` or `jp`; sets the page language. |
-| `TOC` | no | `true` to show a table of contents. |
-| `hideDescription` | no | `true` to hide the description on the post page. |
-| `type` | no | Kind of post (currently only `escrito`). |
-| `project` | no | Project name the post relates to (e.g. `Apolo`). |
+Structure
+--------------------------------------------------------------------------------
+
+- `config`: Build configuration, automation checks and so on. Not content related, but development/deployment related. It may include linters configuration, accesibility checkers, etc.
+- `tables`: TSV files that define some data-driven logic in the site generator; i.e. the generation of HTML snippets, lists, or metadata needed for other pages.
+- `writings`: Where the written content lives, in the form of markdown files (other markup languages may be used, as long as they can be processed by pandoc). The structure within is ignored by the generator, as all metadata is within yaml frontmatter blocks within each file. This frontmatter is explained later in this document.
+- `media`: Where images (icons, photos, etc) live, and where other media files might eventually live. Structure is reflected in the final website. Svg files get some special treatment since they are plain-text files, so that I can inline them into pages/templates/etc.
+- `projects`: YAML files, each defining a "project" to showcase; I'll probably eventually turn this into normal written content, even if mostly empty and frontmatter-driven.
+
+
+Frontmatter in markup files
+--------------------------------------------------------------------------------
+
+This documentation should probably live in the site generator...
+
+### Required fields for publication
+
+
+| Key     | Required | Meaning                                           |
+| ---     | ---      | ---                                               |
+| `path`  | yes      | Output URL, e.g. `/blog/my-post`                  |
+| `title` | yes      | Post title. Used in `h1` and head `title`         |
+| `date`  | yes      | Published date (`YYYY-MM-DD`); used for ordering. |
+
+### Common optional fields
+
+| Key               | Meaning                                                                  |
+| ---               | ---                                                                      |
+| `lastModifiedAt`  | Similar to `date`. Used to show "last updated" info in site and sitemap. |
+| `description`     | Short summary: post lists and `<meta name="description">`.               |
+| `hideDescription` | `true` to hide the description on the posts list page.                   |
+| `language`        | `en` (default), `es` or `jp`; sets the page language (semantic HTML).    |
+| `TOC`             | `true` to show a table of contents.                                      |
+| `type`            | Kind of post (currently only `escrito`).                                 |
+| `project`         | Project name the post relates to. Makes the project link to this post.   |
+
+
+### Group index pages 
+
+Any file having this set, becomes the index file for the given group.
+
+| Key     | Notes                           |
+| ---     | ---                             |
+| `group` | The name of the group           |
+| `index` | For index pages, must be `true` |
+
+
