@@ -8,7 +8,7 @@ path: /blog/competitive-programming
 TOC: true
 ---
 
-After a great math professor convinced me and two other students, we started (re)learning to code sooner and with one goal in mind: To compete in the "Coding Marathons" (how they're commonly called in my university). 
+After a great math professor convinced me and two other students, we started (re)learning to code sooner and with one goal in mind: To compete in the "Coding Marathons" (as they're commonly called in my university). 
 
 ## The ACM-ICPC
 
@@ -17,7 +17,7 @@ The Association for Computing Machinery - International Collegiate Programming C
 The rules are simple enough:
 
 + Group
-  + Made by 3 students of the same university.
+  + Made up of 3 students of the same university.
 
 + Materials
   + Each group is given a single computer.
@@ -34,29 +34,29 @@ The rules are simple enough:
 
 The ICPC is but one of many worldwide competitions to prove your coding and logical thinking skills. Big companies like Google or Facebook like the idea enough to host their own competitions (CodeJam and HackerCup, respectively). The format is a little different from competition to competition, but topics are generally the same (lots and lots of topics).
 
-If you're a minor, high-school student, you can compete en the International Olympiad in Informatics (IOI), which is, along with the ICPC, one of the oldest programming competitions, besides being one of the big five international science olympiads.
+If you're a minor, high-school student, you can compete in the International Olympiad in Informatics (IOI), which is, along with the ICPC, one of the oldest programming competitions, besides being one of the big five international science olympiads.
 
-There are also many other institutions that organize coding competitions (even as its main activity), online or on-site. Some of them are the "Competitive Programming Network" (or RPC, "Red de Programación Competitiva" in Spanish), Codeforces (from Russia), CodeChef (from India), Topcoder (from the USA), HackerRank (from the USA); almost every competition is in English as a Standard to avoid ambiguity due to translation.
+There are also many other institutions that organize coding competitions (even as their main activity), online or on-site. Some of them are the "Competitive Programming Network" (or RPC, "Red de Programación Competitiva" in Spanish), Codeforces (from Russia), CodeChef (from India), Topcoder (from the USA), HackerRank (from the USA); almost every competition is in English as a standard to avoid ambiguity due to translation.
 
 ## What you can learn training
 
 There are tons of things you can learn; and you must learn them if you want to reach for glory (red status in Codeforces, for example). Among those topics are a great deal of magical data structures, graph theory, geometry, string analysis, dynamic programming, number theory, and so much more.
 
-Dealing with such quantity of information it's normal to get intimidated. And indeed, this might not be everyone's cup of tea, but it's impossible to know without trying. I can just say it can get pretty fun.
+Dealing with such a quantity of information, it's normal to get intimidated. And indeed, this might not be everyone's cup of tea, but it's impossible to know without trying. I can just say it can get pretty fun.
 
 ### How to start training
 
-I started training soon in my studies, at the same time that my then team Augusto and Rubmary, with help from Prof. Ricardo. He guided us through the beginning of our journey, with puzzles and basic programming tasks that required just a bit more thinking than the last one. I love puzzles and find it a great way to train logical thinking.
+I started training soon in my studies, at the same time as my then-teammates Augusto and Rubmary, with help from Prof. Ricardo. He guided us through the beginning of our journey, with puzzles and basic programming tasks that required just a bit more thinking than the last one. I love puzzles and find it a great way to train logical thinking.
 
-We picked up C++ as it's the most used language in ICPC competitions, and found in it a powerful tool, too big to handle whole at first, but flexible enough to provide a simple learning environment. One thing I learned on the way, though, is that the language doesn't matter than much: The main goal of these competitions is to think of a solution. The basics are enough to start, and in the way more and more details of the language will show themselves.
+We picked up C++ as it's the most used language in ICPC competitions, and found in it a powerful tool, too big to grasp all at once at first, but flexible enough to provide a simple learning environment. One thing I learned on the way, though, is that the language doesn't matter that much: The main goal of these competitions is to think of a solution. The basics are enough to start, and along the way more and more details of the language will show themselves.
 
 The easiest way to train is to use an online judge of solutions. The judges usually have big catalogs of problems, which you can choose from, pick one, code a solution, and the judge will test it against several (usually hidden to the user) test cases to prove your solution correct, or give you some feedback as to why it's not (too much time running, too much memory used, crashed along the way, didn't even compile, ...). 
 
-A common judge is SPOJ, and here are some easy problems for beginners: TEST, ADDREV, HELLOKIT, OFFSIDE, CANDY, NSTEPS, DRAWM, CYLINDER. Some not-so-for-beginners problems: FARIDA, SAMER08F, STPAR, CHOCOLA, HISTOGRA, PIGBANK, AGGRCOW. Do not look for answers before you try it yourself.
+A common judge is SPOJ, and here are some easy problems for beginners: TEST, ADDREV, HELLOKIT, OFFSIDE, CANDY, NSTEPS, DRAWM, CYLINDER. Some not-so-beginner-friendly problems: FARIDA, SAMER08F, STPAR, CHOCOLA, HISTOGRA, PIGBANK, AGGRCOW. Do not look for answers before you try them yourself.
 
 ### Basic topics to learn along
 
-Theory and implementations to be learning right after you start are:
+Theory and implementations to learn right after you start are:
 
 + Asymptotic Notation
 + Data Structures
@@ -79,11 +79,11 @@ There are many other topics. You're free to search around for them or contact me
 ### Best practices
 
 + Practice writing code on paper, even pseudo code. 
-+ Practice reading other people code (important: read your teammates' code a lot, understand their thought process). 
++ Practice reading other people's code (important: read your teammates' code a lot, understand their thought process). 
 + Practice in online contests like Codeforces, and measure yourself with others. 
 + Don't look for other people's solutions, unless you're certain you can't solve it yourself; but, even then, implement the solution yourself so that you get experience on problems similar to that. 
 + Always solve off-contest any problem you couldn't solve on time. 
-+ Read posts online explaining topics, or the books itself. 
++ Read posts online explaining topics, or the books themselves. 
 + Don't get stuck on a single problem, move on to another (that goes for in-contest and off-contest alike).
 + Read the editorials for the contests after the fact (sometimes written by competitors in ugly but potentially interesting blogs).
 + Don't lose the habit.

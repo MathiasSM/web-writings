@@ -10,7 +10,7 @@ type: escrito
 
 Dos universos,  
 chocando en armonía.  
-Planetas de acercan,  
+Planetas se acercan,  
 órbitas conectan.
 
 Estrellas comparten energía,  

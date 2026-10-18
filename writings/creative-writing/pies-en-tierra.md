@@ -31,7 +31,7 @@ Ordenar.
 
 Dejar de pintar. Parar.
 
-Él quiere descansar y dejar de pintar. No quiere mas colores y movimiento, ni caos, ni pensar. Quiere parar. Parar y pensar pero no pensar antes. Quiere ordenar, pintar de blanco, parar y organizarse. Se pierde el sentido, el arriba y la izquierda, quiere detenerse en el centro. Cerrar los ojos, abrirlos, concentrarse en un punto, descubrir su color y entorno, partir de ese punto y estar alli, y en ningun otro lugar. Quiere moverse lentamente pero no quedarse quieto. Quiere detenerse para poder seguir.
+Él quiere descansar y dejar de pintar. No quiere más colores y movimiento, ni caos, ni pensar. Quiere parar. Parar y pensar pero no pensar antes. Quiere ordenar, pintar de blanco, parar y organizarse. Se pierde el sentido, el arriba y la izquierda, quiere detenerse en el centro. Cerrar los ojos, abrirlos, concentrarse en un punto, descubrir su color y entorno, partir de ese punto y estar allí, y en ningún otro lugar. Quiere moverse lentamente pero no quedarse quieto. Quiere detenerse para poder seguir.
 
 No podrá hacerlo de otra manera.
 

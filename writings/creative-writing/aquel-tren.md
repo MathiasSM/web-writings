@@ -13,7 +13,7 @@ Veía una hilera de caballos empezando una carrera paralela a los rieles del tre
 
 Aquél que revisaba los boletos me interrumpió, me hizo pensar en dinero, trabajo, la “vida adulta”, me distrajo un rato de la tragedia de los caballos. ¿Por qué corrían? Volví a la ventana, pero no se veía nada mientras pasábamos por un oscuro túnel. Y aunque la cabina estuviera completamente iluminada, yo estaba absorto en la rápida pared del túnel. En algún momento quise alcanzarla; pensé en la puerta, pero sólo otro podría abrirla.
 
-Voces, cubiertos, ronquidos, se escuchaban en aquel tren. Habían muchas personas pero ninguna me veía o yo no tenía interés en ser visto. Pensaba en lo que haría al llegar a la estación. Un cuarto de vida en un baúl de madera, y otro cuarto arrastrando a este y a sí mismo por la noche.
+Voces, cubiertos, ronquidos, se escuchaban en aquel tren. Había muchas personas pero ninguna me veía o yo no tenía interés en ser visto. Pensaba en lo que haría al llegar a la estación. Un cuarto de vida en un baúl de madera, y otro cuarto arrastrando a este y a sí mismo por la noche.
 
 Un anciano bien vestido empezó a repartir vino. Al anunciarlo, sonrisas resonaron y las veía extrañas; yo también sonreía, pero no era de felicidad, sino porque la espera de su calor me contentaba y me hacía más fácil el no querer estar ahí, y así buscar un caballo e irme. Estaba seguro de que los demás estaban felices de estar en ese tren, no por su destino, sino por una simple botella de vino.
 

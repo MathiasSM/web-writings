@@ -6,8 +6,9 @@ This repository contains all/most content used to build my personal website [mat
 Structure
 --------------------------------------------------------------------------------
 
-- `config`: Build configuration, automation checks and so on. Not content related, but development/deployment related. It may include linters configuration, accesibility checkers, etc.
+- `config`: Build configuration, automation checks and so on. Not content related, but development/deployment related. It may include linter configuration, accessibility checkers, etc.
 - `tables`: TSV files that define some data-driven logic in the site generator; i.e. the generation of HTML snippets, lists, or metadata needed for other pages.
+- `hobbies.yaml`: A single YAML file listing every hobby, each with `name`, `href`, `icon` and an optional `show` flag (a hobby is shown unless `show: false`). Editors can validate it against `schema/hobbies.schema.json` (see the modeline comment at the top of the file).
 - `writings`: Where the written content lives, in the form of markdown files (other markup languages may be used, as long as they can be processed by pandoc). The structure within is ignored by the generator, as all metadata is within yaml frontmatter blocks within each file. This frontmatter is explained later in this document.
 - `media`: Where images (icons, photos, etc) live, and where other media files might eventually live. Structure is reflected in the final website. Svg files get some special treatment since they are plain-text files, so that I can inline them into pages/templates/etc.
 - `projects`: YAML files, each defining a "project" to showcase; I'll probably eventually turn this into normal written content, even if mostly empty and frontmatter-driven.
@@ -31,7 +32,7 @@ This documentation should probably live in the site generator...
 
 | Key               | Meaning                                                                  |
 | ---               | ---                                                                      |
-| `lastModifiedAt`  | Similar to `date`. Used to show "last updated" info in site and sitemap. |
+| `lastModifiedAt`  | Similar to `date`. Used to show "last updated" info on the site and in the sitemap. |
 | `description`     | Short summary: post lists and `<meta name="description">`.               |
 | `hideDescription` | `true` to hide the description on the posts list page.                   |
 | `language`        | `en` (default), `es` or `jp`; sets the page language (semantic HTML).    |
@@ -42,7 +43,7 @@ This documentation should probably live in the site generator...
 
 ### Group index pages 
 
-Any file having this set, becomes the index file for the given group.
+Any file with this set becomes the index file for the given group.
 
 | Key     | Notes                           |
 | ---     | ---                             |

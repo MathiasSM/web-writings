@@ -8,13 +8,13 @@ TOC: true
 
 ![Photo of books](https://placehold.co/600x400){.full}
 
-Truth be told, I used to read more, years ago. It's been a while since I pick up a novel and start reading it without getting distracted or interrupted by life events. I remember it all started with Harry Potter (even if right now I try to avoid anything related to it...), Narnia, some "young adult" books and a failed attempt to go through The Lord of The Rings in Spanish... It may have been the specifc translation, but when I compared it to the English version, the latter was way easier to read for me. I managed to finish the first book but I decided not to go on at that time.
+Truth be told, I used to read more, years ago. It's been a while since I picked up a novel and started reading it without getting distracted or interrupted by life events. I remember it all started with Harry Potter (even if right now I try to avoid anything related to it...), Narnia, some "young adult" books and a failed attempt to go through The Lord of the Rings in Spanish... It may have been the specific translation, but when I compared it to the English version, the latter was way easier to read for me. I managed to finish the first book but I decided not to go on at that time.
 
-Nowadays I tend to read manga, more than anything. As in **a lot of manga**. As of writing and according to my [MyAnimeList](https://myanimelist.net/profile/mathiassm) profile, I have completed 209 series (535 volumes), and I'm currently reading 358 (which is of course an exageration, as I basically mark anything I start as "currently reading" and only some times do I actually mark it as dropped if I'm sure I'm never finishing it). May sound lame, but I'm a bit proud of my ratings having a somewhat normal distribution centered only at 5.8, as most MAL users give very positively-skewed scores.
+Nowadays I tend to read manga, more than anything. As in **a lot of manga**. As of writing and according to my [MyAnimeList](https://myanimelist.net/profile/mathiassm) profile, I have completed 209 series (535 volumes), and I'm currently reading 358 (which is of course an exaggeration, as I basically mark anything I start as "currently reading" and only sometimes do I actually mark it as dropped if I'm sure I'm never finishing it). May sound lame, but I'm a bit proud of my ratings having a somewhat normal distribution centered at only 5.8, as most MAL users give very positively-skewed scores.
 
 Nobody asked, but I'll include here some recommendations...
 
-Now, to start, regardless of who you are, what you do, what you like, where you live, what you do, ... Read [One Piece](#one-piece). If you can only choose one thing to read, pick that.
+Now, to start, regardless of who you are, what you do, what you like, where you live, ... Read [One Piece](#one-piece). If you can only choose one thing to read, pick that.
 
 ---
 
@@ -23,7 +23,7 @@ One Piece (ワンピース, [MyAnimeList](https://myanimelist.net/manga/13)) {#o
 
 ![*One Piece*, vol. 1, © Eiichiro Oda / Shueisha.](https://cdn.myanimelist.net/images/manga/2/253146.jpg)
 
-It's long, not yet finished, and many get intimidated by it, but I don't know a single person who doesn't love it once they start. I didn't even start reading it until 2025, after many failed attempts at the anime (dropping off at _Alabasta_ with the terrible pacing of the adaptation). Right now I'm caught up, and it's being 100% the best thing I'm have been reading overall.
+It's long, not yet finished, and many get intimidated by it, but I don't know a single person who doesn't love it once they start. I didn't even start reading it until 2025, after many failed attempts at the anime (dropping off at _Alabasta_ with the terrible pacing of the adaptation). Right now I'm caught up, and it's 100% the best thing I've been reading overall.
 
 It's by Eiichiro Oda ([尾田](-おだ)[栄一郎](-えいいちろう) [Wikipedia](https://en.wikipedia.org/wiki/Eiichiro_Oda)).
 
@@ -35,17 +35,17 @@ Some manga authors I follow
 
 ### Tatsuki Fujimoto ([藤本](-ふじもと)タツキ · <small>[Wikipedia](https://en.wikipedia.org/wiki/Tatsuki_Fujimoto)</small>)
 
-[Chainsaw Man](https://myanimelist.net/manga/116778) (チェンソーマン, _Chensōman_) — assuming you know nothing about it, I wonder what you might imagine it is about. We follow Denji, a guys that has no family, no friends, no money, only his pet dog Pochita, and the incredibly dangerous job of devil hunter, under an abussive boss that only manipulating Denji as long as he's useful. Oh, and Pochita is the chainsaw devil. And because of "reasons" Denji gains the power to turn into said chainsaw devil... Only to fall into a (slightly better-paid) devil-hunting job.
+[Chainsaw Man](https://myanimelist.net/manga/116778) (チェンソーマン, _Chensōman_) — assuming you know nothing about it, I wonder what you might imagine it is about. We follow Denji, a guy that has no family, no friends, no money, only his pet dog Pochita, and the incredibly dangerous job of devil hunter, under an abusive boss who only manipulates Denji as long as he's useful. Oh, and Pochita is the chainsaw devil. And because of "reasons" Denji gains the power to turn into said chainsaw devil... Only to fall into a (slightly better-paid) devil-hunting job.
 
 ![*Chainsaw Man*, vol. 1, © Tatsuki Fujimoto / Shueisha.](https://cdn.myanimelist.net/images/manga/3/216464.jpg)
 
-It's about a guy that never went to school, never socialized, doesn't know what's normal, doesn't know what's common or expected. He, however, is trying to figure out what is his dream. What is even a dream? Should you even measure it? Someone might want the moon, but he might be happy with eating every day. Denji is not a thankless prick, or a thankful monk, he's just a guy who doesn't know better, and is constantly trying to figure out if he even wants to know. Ignorance is bliss, in a way, but then... people will take advantage of that ignorance, and might take away the bliss.
+It's about a guy that never went to school, never socialized, doesn't know what's normal, doesn't know what's common or expected. He, however, is trying to figure out what his dream is. What is even a dream? Should you even measure it? Someone might want the moon, but he might be happy just eating every day. Denji is not a thankless prick, or a thankful monk, he's just a guy who doesn't know better, and is constantly trying to figure out if he even wants to know. Ignorance is bliss, in a way, but then... people will take advantage of that ignorance, and might take away the bliss.
 
-I must say the world-building is great; devils exist, but are tied to their name, a feared thing or concept. The greater the fear, the greater the devil's power. As you may imagine, as a reader you will eventually find more than a few interesting devils and fears. And then you have Denji, which goes brrrrm brrrrm while other devils seem to fear him.
+I must say the world-building is great; devils exist, but are tied to their name, a feared thing or concept. The greater the fear, the greater the devil's power. As you may imagine, as a reader you will eventually find more than a few interesting devils and fears. And then you have Denji, who goes brrrrm brrrrm while other devils seem to fear him.
 
-Fujimoto's sense of humor and love for "B-movies" is all over the manga (and the anime). A mad genius, if you will. I also read his previous [Fire Punch](https://myanimelist.net/manga/98270) which uses a similar protagonist, but deals with societal themes more than the inner psique of the MC.
+Fujimoto's sense of humor and love for "B-movies" is all over the manga (and the anime). A mad genius, if you will. I also read his previous [Fire Punch](https://myanimelist.net/manga/98270) which uses a similar protagonist, but deals with societal themes more than the inner psyche of the MC.
 
-However, it's a different manga of his that I hold close to my heart: [Look Back](https://myanimelist.net/manga/138673). It tells the story of two girls who both like drawing and making stories, and decide to become manga authors. It's a heartbreaking short story that got eventually an anime adaptation (which also made me cry), and a live-action adaptation, which apparently got a X-minute standing ovation at the YYY festival. It's a single volume, go read it, or watch it. Bring tissues. He also wrote [Goodbye Eri](https://myanimelist.net/manga/145863), another short one-shot in the same register.
+However, it's a different manga of his that I hold close to my heart: [Look Back](https://myanimelist.net/manga/138673). It tells the story of two girls who both like drawing and making stories, and decide to become manga authors. It's a heartbreaking short story that eventually got an anime adaptation (which also made me cry), and a live-action adaptation, which apparently got a X-minute standing ovation at the YYY festival. It's a single volume, go read it, or watch it. Bring tissues. He also wrote [Goodbye Eri](https://myanimelist.net/manga/145863), another short one-shot in the same register.
 
 ### Tsugumi Ohba ([大場](-おおば)つぐみ · <small>[Wikipedia](https://en.wikipedia.org/wiki/Tsugumi_Ohba)</small>) & Takeshi Obata ([小畑](-おばた)[健](-たけし) · <small>[Wikipedia](https://en.wikipedia.org/wiki/Takeshi_Obata)</small>)
 
@@ -82,7 +82,7 @@ Its sequel, [Jujutsu Kaisen Modulo](https://myanimelist.net/manga/186597) ([呪�
 
 ### Hiromu Arakawa ([荒川](-あらかわ)[弘](-ひろむ) · <small>[Wikipedia](https://en.wikipedia.org/wiki/Hiromu_Arakawa)</small>)
 
-[Fullmetal Alchemist](https://myanimelist.net/manga/25) ([鋼](-はがね)の[錬金術師](-れんきんじゅつし), _Hagane no Renkinjutsushi_) — maybe the most known one here. Follow the story of two brothers in a world where "Alchemy" is practiced as a science (although it works as the magic system in the story). After a traumatic event during their childhood, the are on a self-imposed mission to recover what they lost.
+[Fullmetal Alchemist](https://myanimelist.net/manga/25) ([鋼](-はがね)の[錬金術師](-れんきんじゅつし), _Hagane no Renkinjutsushi_) — maybe the best-known one here. Follow the story of two brothers in a world where "Alchemy" is practiced as a science (although it works as the magic system in the story). After a traumatic event during their childhood, they are on a self-imposed mission to recover what they lost.
 
 ![*Fullmetal Alchemist*, vol. 1, © Hiromu Arakawa / Square Enix.](https://cdn.myanimelist.net/images/manga/3/243675.jpg)
 
@@ -112,7 +112,7 @@ What I love about it is how honest it is about practice versus talent, and about
 
 ![*I Have a Secret*, vol. 1, © Yoru Sumino & Zui Nieki / Shinchosha.](https://cdn.myanimelist.net/images/manga/1/219888.jpg)
 
-[I Have a Secret](https://myanimelist.net/manga/116734) (かくしごと, _Kakushigoto_) is a weird one. A group of classmates each have some kind of odd ability, but the abilities are really just different ways of seeing the world — different frameworks different personalities use to simplify reality into something manageable. And again and again you watch those frameworks crumble when they run into some "unexpected input" the character can't process without actually slowing down, caring, and really listening to people.
+[I Have a Secret](https://myanimelist.net/manga/116734) (かくしごと, _Kakushigoto_) is a weird one. A group of classmates each have some kind of odd ability, but the abilities are really just different ways of seeing the world — different frameworks that different personalities use to simplify reality into something manageable. And again and again you watch those frameworks crumble when they run into some "unexpected input" the character can't process without actually slowing down, caring, and really listening to people.
 
 Sumino is best known for [I Want to Eat Your Pancreas](https://myanimelist.net/manga/104538); the art here is by Zui Nieki ([二駅](-にえき)ずい [MyAnimeList](https://myanimelist.net/people/38379/Zui_Nieki)), and it's short enough to binge in a sitting.
 
@@ -128,11 +128,11 @@ Perhaps I _should_ follow these authors for upcoming stories.
 
 ![*Attack on Titan*, vol. 1, © Hajime Isayama / Kodansha.](https://cdn.myanimelist.net/images/manga/2/37846.jpg)
 
-More recent, and some woul say more modern. Humanity has been reduced and secluded within tall walls to flee from the titans, creatures with no intellect but a constant unrelenting drive to eat said humans. After 100 years of peace within the walls, which are taller than those titans by a long shot, a _colossal_ titan appears, looking over the wall as if it weren't 50 meters tall, kicks a hole into it, and dissapears, letting in a horde of titans. The story will follow a few later-turned cadets of the anti-titan millitary force, with the impossible goal to erradicate them, and free humanity.
+More recent, and some would say more modern. Humanity has been reduced and secluded within tall walls to flee from the titans, creatures with no intellect but a constant unrelenting drive to eat said humans. After 100 years of peace within the walls, which are taller than those titans by a long shot, a _colossal_ titan appears, looking over the wall as if it weren't 50 meters tall, kicks a hole into it, and disappears, letting in a horde of titans. The story will follow a few cadets who later join the anti-titan military force, with the impossible goal of eradicating them, and freeing humanity.
 
-It's a tricky entry, because beyond a surface of action and gore, it deals with darker themes of politics, history, fascism, genocide, wrapped in the fantasy mystery of the titans. I enjoyed the foreshadowing, the mystery, the incredible revelations every once in a while (most readers remember the exact chapter number or name where certain questions were answered). The author started the manga pretending it to be the usual action-packed fantansy non-sense, only to uncover a incresingly complicated world little by little, increasing tension and worries everywhere.
+It's a tricky entry, because beyond a surface of action and gore, it deals with darker themes of politics, history, fascism, genocide, wrapped in the fantasy mystery of the titans. I enjoyed the foreshadowing, the mystery, the incredible revelations every once in a while (most readers remember the exact chapter number or name where certain questions were answered). The author started the manga pretending it was the usual action-packed fantasy nonsense, only to uncover an increasingly complicated world little by little, increasing tension and worries everywhere.
 
-It's not perfect; in particular, certain "answers" given at the very end were _controversial_ to say the least (specially looking at the real world right now...). You don't have to agree with the answers given (the very author doesn't even seem to agree, either, from what I've read), but the fact it made people question and discuss these topics is worth a lot, I feel.
+It's not perfect; in particular, certain "answers" given at the very end were _controversial_ to say the least (especially looking at the real world right now...). You don't have to agree with the answers given (the author himself doesn't even seem to agree, either, from what I've read), but the fact it made people question and discuss these topics is worth a lot, I feel.
 
 It's by Hajime Isayama ([諫山](-いさやま)[創](-はじめ) [Wikipedia](https://en.wikipedia.org/wiki/Hajime_Isayama)), and as far as I know he hasn't really done anything else major — this is his whole thing, which honestly makes the consistency of the mystery even more impressive.
 
@@ -179,7 +179,7 @@ There are plenty more I won't go deep into: [Your Throne](https://myanimelist.ne
 A notice on copyright...
 --------------------------------------------------------------------------------
 
-*All images and mange excerpts are used for the purpose of review and/or commentary. All characters, titles and artwork remain © their respective authors and publishers:*
+*All images and manga excerpts are used for the purpose of review and/or commentary. All characters, titles and artwork remain © their respective authors and publishers:*
 
 - **One Piece** © Eiichiro Oda / Shueisha
 - **Chainsaw Man** © Tatsuki Fujimoto / Shueisha

@@ -15,7 +15,7 @@ Bebés cuando te llaman o los oyes llorar, cachorros cuando se acuestan contigo,
 
 Luego crecen y cambian.
 
-No les pasa a veces, que les da por capitalista oriental, comunista en occidente, y quieren matar de hambre a esa persona, ese perro, esa planta? Suena fuerte. Nadie admitiría que ha pensado en matar alguna vez. Pero si se trata de recuerdos, a quien no le gustaría matar a algunos? Y cuando se trata de recuerdos que solo se alimentan de tu atención, de tu presencia, de ti, y que no puedes tocar, golpear, o hacerles daño alguno, ¿Cómo matarlos sino haciendo exactamente nada? Los mataría de hambre. La indiferencia fingida los torturaría. El olvido los mataría finalmente.
+No les pasa a veces, que les da por capitalista oriental, comunista en occidente, y quieren matar de hambre a esa persona, ese perro, esa planta? Suena fuerte. Nadie admitiría que ha pensado en matar alguna vez. Pero si se trata de recuerdos, a quién no le gustaría matar a algunos? Y cuando se trata de recuerdos que solo se alimentan de tu atención, de tu presencia, de ti, y que no puedes tocar, golpear, o hacerles daño alguno, ¿Cómo matarlos sino haciendo exactamente nada? Los mataría de hambre. La indiferencia fingida los torturaría. El olvido los mataría finalmente.
 
-Sólo me pregunto qué pasaría si el recuerdo decidiera olvidarse de mí. Cuanto tardaría yo en morir.
+Sólo me pregunto qué pasaría si el recuerdo decidiera olvidarse de mí. Cuánto tardaría yo en morir.
 

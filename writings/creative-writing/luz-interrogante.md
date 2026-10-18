@@ -9,9 +9,9 @@ type: escrito
 
 Está oscuro, ¿Qué hora es? ¿Dónde estoy? Debe ser tarde, noche, porque no puedo ver nada. ¿Quién ve? Mis ojos, pero ¿de quién son? Ah! Mi cuarto; veo el escritorio y reconozco mi desorden. Se siente extraño, volver a sí.
 
-Y camino por el pasillo del colegio, para seguido leer en algún café, que apaguen la luz, de echen de mi ser y me pregunte interrumpiendo “¿Qué demonios es ser?” ¿Dónde estoy? Todo otra vez.
+Y camino por el pasillo del colegio, para seguido leer en algún café, que apaguen la luz, me echen de mi ser y me pregunte interrumpiendo “¿Qué demonios es ser?” ¿Dónde estoy? Todo otra vez.
 
-El final y el principio llenos de duas encierran un sueño de aceptación, una luz caótica, un mundo sin lógica. Mientras tanto, la noche se vuelve un vaivén de irreconocibles escenarios, dudas irrelevantes y memorias en el aire.
+El final y el principio llenos de dudas encierran un sueño de aceptación, una luz caótica, un mundo sin lógica. Mientras tanto, la noche se vuelve un vaivén de irreconocibles escenarios, dudas irrelevantes y memorias en el aire.
 
 Pretende reparar, pretendo reparar, pero parece secundario a semejante viaje. El reparo no siempre llega, el viaje sí. Algunas veces corto, algunas veces largo, otras olvidamos el reparo y lo vemos como un atajo al día siguiente (¿otra vida?).
 

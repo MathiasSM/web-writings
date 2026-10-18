@@ -7,19 +7,19 @@ path: /blog/training-camp-argentina-2015
 TOC: true
 ---
 
-We were still babies at programming, to be honest. But the USB had competed in the Marrakech World Finals 2015 (Team Phoenix); there, the awesome guys from Argentina invited Venezuela to a Training Camp they had been running annually for 6 years. Yet, Team Phoenix couldn't go, as two out of three of its members had graduated.
+We were still babies at programming, to be honest. But the USB had competed in the Marrakech World Finals 2015 (Team Phoenix); there, the awesome guys from Argentina invited Venezuela to a Training Camp they had been running annually for 6 years. Yet, Team Phoenix couldn't go, as two of its three members had graduated.
 
 **Venezuela could send two teams**, and it was decided that one should be from the USB, so Ricardo chose us, RAM, to go to fucking Argentina.
 
 ## Home Pre-Training
 
-The whole idea intimidated us. We had never even participated in a real ICPC contest (local, regional or else), much less assisted such a camp, or gone to Argentina, for that matter. The idea of a previous training, taught in our home university, was welcomed.
+The whole idea intimidated us. We had never even participated in a real ICPC contest (local, regional or else), much less attended such a camp, or gone to Argentina, for that matter. The idea of a previous training, taught in our home university, was welcomed.
 
 The main “teacher” was Ricardo, our coach, but other classes were given by Rubmary (teammate) and Wilmer Bandres (Marrakech finalist), as well. They were open classes for anyone who wanted to go, so there were usually around 7 to 10 people.
 
 ## The necessary fundraising
 
-Venezuela is going, as I write this, through a political, social and economic crisis that makes everything related to travels, among other million things, almost impossible: We had no money for it. We had to fly some miles to get there, so we asked for help. All this during the trimester and pre-training up until the end.
+Venezuela is going, as I write this, through a political, social and economic crisis that makes everything related to travel, among a million other things, almost impossible: We had no money for it. We had to fly some miles to get there, so we asked for help. All this during the trimester and pre-training up until the end.
 
 It was tough, but we somehow managed to arrange everything after lots of people (mostly family, but also friends and a couple of strangers) helped by donating or sharing our story. We finally got the money, and in a couple of stressful days, we organized the trip to Bahía Blanca, Argentina.
 
@@ -32,7 +32,7 @@ It was tough, but we somehow managed to arrange everything after lots of people 
   + **Google** - Maps and internships open to all.
   + **Facebook** - Mobile version/Network and internships open to… the best.
   + **Medallia** - Networking awesomeness and internships open.
-+ Saturday codeforces because we weren’t tired enough.
++ Saturday Codeforces because we weren’t tired enough.
 
 We learned a lot, a freaking lot, then and months after, digesting all that information. This was a major help for us at the regionals when [we classified to the World Finals](/blog/acm-icpc-world-finals-thailand).
 
@@ -98,10 +98,10 @@ Be sure to expand every item to see specific topics.
         <li>Chinese Remainder Theorem</li>
       </ul>
     </li>
-    <li>Matrixes 
+    <li>Matrices 
       <ul>
         <li>Graphs</li>
-        <li>Markov’s Chains</li>
+        <li>Markov Chains</li>
         <li>System of equations</li>
         <li>Gauss-Jordan</li>
       </ul>
@@ -203,13 +203,13 @@ You can check the [official website for Training Camp Argentina 2015](https://si
 
 ## Training Camp Venezuela
 
-Something we agreed on commit to before going to Argentina was to share all we learned in Argentina with Venezuelan competitors. We had then (and still have) a lack of competitors and trainers, due to Venezuela’s long lasting (bad and getting worse) condition for the most part, as academic life struggles, so we all want and need to promote these competitions by training others.
+Something we agreed to commit to before going to Argentina was to share all we learned in Argentina with Venezuelan competitors. We had then (and still have) a lack of competitors and trainers, due to Venezuela’s long lasting (bad and getting worse) condition for the most part, as academic life struggles, so we all want and need to promote these competitions by training others.
 
-We resorted to doing some kind of training camp. It had a totally different format, attending to Venezuela’s insecurity and current _state_ of the State Universities; these universities depend economically on the government, and with Maduro’s administration, we were suffering a professors strike at that time thanks to a critical lack of necessary conditions. Certainly chaotic times but we did it anyway.
+We resorted to doing some kind of training camp. It had a totally different format, given Venezuela’s insecurity and current _state_ of the State Universities; these universities depend economically on the government, and with Maduro’s administration, we were suffering a professors' strike at that time thanks to a critical lack of necessary conditions. Certainly chaotic times, but we did it anyway.
 
-The format was like this: Lectures on Friday and Saturday mornings in the _Universidad Central de Venezuela_ (UCV) (which is an easier place go to for most students) by the UCV team that went with us to Argentina and ourselves. We covered the same topics we were lectured on.
+The format was like this: Lectures on Friday and Saturday mornings in the _Universidad Central de Venezuela_ (UCV) (which is an easier place to go to for most students) by the UCV team that went with us to Argentina and ourselves. We covered the same topics we were lectured on.
 
-They got a pretty big set of topics in Argentina, but with such a little time as two weeks, not everything can be taught. We tried to cover a little more than them by including _maximum flow_ algorithms as the last class.
+They got a pretty big set of topics in Argentina, but with as little time as two weeks, not everything could be taught. We tried to cover a little more than them by including _maximum flow_ algorithms as the last class.
 
 I got to give the second lecture on graphs. I covered _BFS_, _Shortest Paths_, _Minimum Spanning Trees_, "quirky" graphs and a few _intractable_ problems. 
 
