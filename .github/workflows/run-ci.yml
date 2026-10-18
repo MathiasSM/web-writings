@@ -1,0 +1,25 @@
+name: On-demand CI
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Ref/branch to build
+        required: false
+        default: new
+
+permissions:
+  actions: write
+
+jobs:
+  trigger:
+    name: Trigger ci.yml
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch the build workflow
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run ci.yml \
+            --repo "${{ github.repository }}" \
+            --ref "${{ inputs.ref }}"
