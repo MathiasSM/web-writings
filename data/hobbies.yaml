@@ -1,39 +1,28 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/MathiasSM/hakyll-site/master/schema/hobbies.schema.json
-- name: Drawing
-  href: /hobbies/drawing
-  icon: sketching
-- name: Writing
-  href: /hobbies/writing
-  icon: feather
-- name: Boardgames
-  href: /hobbies/boardgames
-  icon: dice-3
-- name: TCGs
-  href: /hobbies/tcgs
-  icon: cards
-- name: Gaming
-  href: /hobbies/gaming
-  icon: device-gamepad-2
-- name: Reading
+# yaml-language-server: $schema=./hobbies.schema.json
+- name: Manga
   href: /hobbies/reading
   icon: book
+- name: Drawing
+  icon: sketching
+- name: Writing
+  icon: feather
+- name: Boardgames
+  icon: dice-3
+- name: TCGs
+  icon: cards
+- name: Gaming
+  icon: device-gamepad-2
 - name: Japanese
-  href: /hobbies/japanese
   icon: alphabet-japanese
 - name: Bouldering
-  href: /hobbies/bouldering
   icon: arrow-narrow-up-dashed
 - name: Tinkering
-  href: /hobbies/tinkering
   icon: chart-grid-dots
 - name: Movies
-  href: /hobbies/movies
   icon: movie
 - name: TV
-  href: /hobbies/tv
   icon: device-tv
 - name: Gundam
-  href: /hobbies/gundam
   icon: robot
 - name: Collecting
   href: /hobbies/collecting

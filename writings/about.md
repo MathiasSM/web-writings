@@ -36,8 +36,6 @@ I could mention [collecting](/hobbies/collecting) as a cross-hobby activity as w
 
 :::::
 
-## Reach out!
+## Online me
 
-```{=html}
-$partial("templates/social-links-about.html")$
-```
+I'd like to keep this site as a "source of truth" for my online identity. As such, I have a list of accounts you may reach me out at the [contact page](/contact). On the other hand, my [keyoxide profile](https://keyoxide.org/aspe:keyoxide.org:DBD3FX5K37NK736Q3RRDTVL36Y) contains some verified profiles, but cannot yet capture the whole picture.

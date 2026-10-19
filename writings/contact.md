@@ -12,7 +12,7 @@ templated: true
 
 Wanna chat a bit about an interesting project? You can always email `mathiassanmiguel` (Gmail). I like stories in many media, so feel free to recommend me cool fiction novels, series, movies or games!
 
-You can also look me up as `mathiassm` almost everywhere else (I figured my last name was too long to type).
+I tend to use `mathiassm` as my username where I can. In any case, here's a list of my online accounts:
 
 ```{=html}
 $partial("templates/social-links.html")$

@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=./experience.schema.json
+- icon: work
+  name: "<strong>SDE at Amazon</strong> for 6+ years"
+- icon: work
+  name: "<strong>SWE at health research startup</strong> for ~1 year"
+- icon: work
+  name: "<strong>SysAdmin at computing lab</strong> for ~2 years"
+- icon: school
+  name: "<strong>Engineering degree in Computer Science</strong> from <i>Universidad Simón Bolívar</i>"
+- icon: idea
+  name: "<strong>ACM-ICPC World Finalist</strong>"
