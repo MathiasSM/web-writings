@@ -26,5 +26,4 @@
   icon: robot
 - name: Collecting
   href: /hobbies/collecting
-  icon: "-"
-  show: false
+  _show: false

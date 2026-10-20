@@ -6,7 +6,7 @@
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["name", "icon"],
+    "required": ["name"],
     "properties": {
       "name": {
         "type": "string",
@@ -20,7 +20,7 @@
         "type": "string",
         "description": "Icon under content/media/icons/, without the .svg extension."
       },
-      "show": {
+      "_show": {
         "type": "boolean",
         "default": true,
         "description": "Whether to list the hobby on the home page."
