@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/MathiasSM/hakyll-site/master/schema/website.schema.json
 # Site configuration.
 #
 # This is the source of truth for the site's identity and the metadata.
