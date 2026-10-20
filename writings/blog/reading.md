@@ -51,7 +51,7 @@ However, it's a different manga of his that I hold close to my heart: [Look Back
 
 [Death Note](https://myanimelist.net/manga/21) (デスノート, _Desu Nōto_) is the one everyone knows: a notebook that kills whoever's name is written in it, and a cat-and-mouse game between a genius student and a genius detective.
 
-Then I fell in love with [Bakuman](https://myanimelist.net/manga/9711) (バクマン。, _Bakuman._), a slightly sexist (I'll admit) love letter to the world of manga creation — two kids trying to get a series serialized in Shonen Jump. It's one of the things that pushed me to start [drawing](/hobbies/drawing), even if I'm not great at it. Obata also did [Hikaru no Go](https://myanimelist.net/manga/20), if you want his art on a classic.
+Then I fell in love with [Bakuman](https://myanimelist.net/manga/9711) (バクマン。, _Bakuman._), a slightly sexist (I'll admit) love letter to the world of manga creation — two kids trying to get a series serialized in Shonen Jump. It's one of the things that pushed me to start drawing, even if I'm not great at it. Obata also did [Hikaru no Go](https://myanimelist.net/manga/20), if you want his art on a classic.
 
 ::::: figures
 
