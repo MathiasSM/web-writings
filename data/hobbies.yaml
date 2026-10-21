@@ -20,9 +20,9 @@
   icon: chart-grid-dots
 - name: Movies
   icon: movie
-- name: TV
+- name: TV Series
   icon: device-tv
-- name: Gundam
+- name: Gunpla
   icon: robot
 - name: Collecting
   href: /hobbies/collecting
