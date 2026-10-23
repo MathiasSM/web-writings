@@ -32,6 +32,11 @@ manifest:
 # MathJax CDN version used to render math on pages that use it.
 mathjax:
   version: "4.1.3"
+  
+# Pandoc syntax-highlighting style used to render code blocks. Required.
+# One of: pygments, espresso, zenburn, tango, kate, monochrome, breezeDark, haddock.
+highlight:
+  style: pygments
 
 # Atom feed size (number of most recent posts per feed).
 feed:
