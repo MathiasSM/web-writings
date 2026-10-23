@@ -1,0 +1,7 @@
+/* Print */
+@media print   {
+  .hobbies ul { justify-content: start;}
+  .hobbies ul .item {box-shadow: none; padding: 0;}
+  .hobbies {break-inside: avoid-column;}
+}
+

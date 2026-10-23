@@ -1,0 +1,12 @@
+/* projects *******************************************************************/
+a.project::after { content: none;}
+.project { 
+  .status {
+    float:inline-end;
+    font-style:normal;font-weight:bold;
+    color:var(--color-brand);
+    margin:.3em 0
+  }
+  .status::before {content:'['}
+  .status::after {content:']'}
+}
