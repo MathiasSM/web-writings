@@ -1,8 +1,4 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/MathiasSM/hakyll-site/master/schema/socials.schema.json
-- icon: twitter
-  href: https://x.com/mathiassm
-  username: "@mathiassm"
-  showContact: true
 - icon: linkedin
   href: https://www.linkedin.com/in/mathiassm
   username: mathiassm
@@ -13,6 +9,14 @@
   username: MathiasSM
   showContact: true
   showAbout: true
+- icon: instagram
+  href: https://www.instagram.com/mathiassm.dev
+  username: mathiassm.dev
+  showContact: true
+- icon: x
+  href: https://x.com/mathiassm
+  username: "@mathiassm"
+  showContact: true
 - icon: imdb
   href: https://www.imdb.com/user/ur62639773/ratings
   username: mathiassanmiguel
@@ -28,10 +32,6 @@
 - icon: spotify
   href: https://open.spotify.com/user/31drgy4hk4wbzdlmzsot4xb35ubm
   username: mathiassm
-  showContact: true
-- icon: instagram
-  href: https://www.instagram.com/mathiassm.dev
-  username: mathiassm.dev
   showContact: true
 - icon: twitch
   href: https://www.twitch.tv/mellamocozy
