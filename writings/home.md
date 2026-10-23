@@ -4,7 +4,7 @@ templated: true
 title: "Mathias San Miguel"
 description: "Software Development Engineer. Programming Languages, Databases and Artificial Intelligence."
 path: "/"
-aliases: ["/about"]
+# aliases: ["/about"]
 
 shareTitle: "Mathias San Miguel - Software Development Engineer"
 # shareDescription: false
@@ -12,7 +12,7 @@ shareTitle: "Mathias San Miguel - Software Development Engineer"
 
 ::::: {.intro}
 
-**Hello there!** I'm <dfn aria-label="Mathias, pronounced Matías" data-ssml-phoneme-alphabet="ipa" data-ssml-phoneme-ph="maˈt̪i.as" class="unbreakable">Mathias</dfn> <span class="ipa unbreakable" aria-hidden="true">([maˈt̪i.as])</span>, a Software Development Engineer with 7+ years of experience in software architecture, devops, automation and more. I'm currently based in **Spain**, walking my dog in between meetings.
+**Hello there!** I'm <dfn aria-label="Mathias, pronounced Matías" data-ssml-phoneme-alphabet="ipa" data-ssml-phoneme-ph="maˈt̪i.as" class="unbreakable">Mathias</dfn> <span class="ipa unbreakable" aria-hidden="true">([maˈt̪i.as])</span>, a Software Development Engineer with 7+ years of experience in software architecture, devops, automation and more. I'm currently based in **Spain**, walking my dog _Sushi_ in between meetings.
 
 :::::
 
@@ -26,7 +26,7 @@ $partial("templates/experience.html")$
 
 ## Aside from work...
 
-These are hobbies I take on at random times and during random periods of time:
+There are hobbies I take on at random times and during random periods of time. I'm writing about a few of them:
 
 ```{=html}
 $partial("templates/hobbies.html")$

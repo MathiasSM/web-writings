@@ -10,9 +10,9 @@ templated: true
 # shareDescription: false
 ---
 
-Wanna chat a bit about an interesting project? You can always email `mathiassanmiguel` (Gmail). I like stories in many media, so feel free to recommend me cool fiction novels, series, movies or games!
+I'm open to chats about development work and projects. I'm _more_ open to chatting about almost any other topic, however; bring me manga recommendations or film analysis, give me tips on how to keep my dog from stealing my chicken, discuss boardgame ideas with me, ask me something in Japanese to practice...
 
-I tend to use `mathiassm` as my username where I can. In any case, here's a list of my online accounts:
+Here are some of my public online accounts where you can find me. As of writing, _I'm staying away from Twitter/X_, and mostly using Instagram to keep in touch with people I cannot contact in other ways. 
 
 ```{=html}
 $partial("templates/social-links.html")$
