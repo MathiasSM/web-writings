@@ -4,7 +4,7 @@ startDate: 2017-02-05
 endDate: 2017-04-07
 status: unmaintained
 shortDescription: "Ruby interpreter for the Retina programming language."
-longDescription: "Developed a simple interpreter for a (mock) language for procedural drawing."
+longDescription: ""
 team:
   - Carlos Serrada
 
