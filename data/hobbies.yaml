@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./hobbies.schema.json
 - name: Manga
-  href: /hobbies/reading
+  href: /hobbies/manga
   icon: book
 - name: Drawing
   icon: sketching
