@@ -15,9 +15,11 @@
 - name: Japanese
   icon: alphabet-japanese
 - name: Bouldering
-  icon: arrow-narrow-up-dashed
+  icon: stretching-2
+- name: Traveling
+  icon: luggage
 - name: Tinkering
-  icon: chart-grid-dots
+  icon: tool
 - name: Movies
   icon: movie
 - name: TV Series
