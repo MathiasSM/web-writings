@@ -28,7 +28,7 @@ Eiichiro Oda's ([[尾田](-おだ)[栄一郎](-えいいちろう)]{lang=ja} [Wi
 
 It's longer than most manga at over 1,000 chapters. It's not yet finished and many get intimidated by the sheer length, but I don't know a single person who doesn't love it once they start. I didn't even start reading it until 2025, after many failed attempts at the anime (dropping off _Alabasta_ twice, because of pacing issues of that arc's adaptation). Right now I'm caught up, and it's 100% the best thing I've been reading overall.
 
-It doesn't get good after 300 chapters. You just need to read 12 chapters to meet Chouchou. that was enough for me to get forever hooked.
+It doesn't get good after 300 chapters. You just need to read 12 chapters to meet Chouchou. That was enough for me to get forever hooked.
 
 
 
