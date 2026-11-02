@@ -1,0 +1,10 @@
+mathiassm:
+  name: Mathias San Miguel
+  type: person
+  siteDefault: true
+  displayName: Mathias San Miguel
+  description: A software engineer that likes a bunch of nerdy things.
+  profileImage: images/photos/og-home.png
+  links:
+    - https://mathiassm.dev
+  addCopyrightNotice: true

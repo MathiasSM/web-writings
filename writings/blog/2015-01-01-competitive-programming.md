@@ -5,7 +5,7 @@ lastModifiedAt: 2018-09-21
 description: >
   Solving programming problems within a strict timeframe and specifications of memory or running time limits
 path: /blog/competitive-programming
-TOC: true
+TOC: Contents
 ---
 
 After a great math professor convinced me and two other students, we started (re)learning to code sooner and with one goal in mind: To compete in the "Coding Marathons" (as they're commonly called in my university). 

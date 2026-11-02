@@ -12,12 +12,12 @@
 
 # The site's identity. Used for titles, footer, and head elements
 site:
-  name: MathiasSM
+  title: MathiasSM
   description: Software Development Engineer
-  author: Mathias San Miguel
   copyrightYear: 2013
   domain: mathiassm.dev
-  twitterHandle: mathiassm
+  alternateName: ["Mathias San Miguel", "mathiassm.dev"]
+  logo: media/branding/logo.svg
 
 # How to reach the site owner.
 contact:

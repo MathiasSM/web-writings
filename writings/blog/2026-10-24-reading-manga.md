@@ -3,8 +3,9 @@ title: Reading manga
 date: 2026-10-06
 description: From fiction to hobby-related non-fiction, but mostly a lot of manga
 path: /hobbies/manga
-TOC: true
-showRubyToggle: true
+TOC: Contents
+rubyToggle: "[ふりがな]{lang=ja}"
+imagesToggle: "Images"
 ---
 
 ![Photo of books](https://placehold.co/600x400){.full}

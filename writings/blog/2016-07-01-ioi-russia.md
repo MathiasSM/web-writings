@@ -4,7 +4,7 @@ description: The International Olympiad in Informatics in Kazan, Russia
 date: 2016-07-01
 lastModifiedAt: 2019-07-26
 path: /blog/ioi-russia
-TOC: true
+TOC: Contents
 ---
 
 Out of lots of luck and training, I got to compete in the International Olympiad in Informatics. Now my goal is to train younger students to represent Venezuela in this great event!
