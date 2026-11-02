@@ -4,4 +4,5 @@ startDate: 2015-11-26
 status: ongoing
 shortDescription: "A static-site generator using Hakyll."
 longDescription: ""
+priority: 1
 

@@ -1,12 +1,11 @@
 ---
 title: Reading manga
-date: 2026-10-06
+date: 2026-11-03
 description: From fiction to hobby-related non-fiction, but mostly a lot of manga
 path: /blog/reading-manga
 rubyToggle: "[ふりがな]{lang=ja}"
+draft: true
 ---
-
-![Photo of books](https://placehold.co/600x400){.full}
 
 Truth be told, I used to read more, years ago. It's been a while since I picked up a novel and started reading it without getting distracted or interrupted by life events. I remember it all started with Harry Potter (even if right now I try to avoid anything related to it...), Narnia, some "young adult" books and a failed attempt to go through The Lord of the Rings in Spanish... It may have been the specific translation, but when I compared it to the English version, the latter was way easier to read for me. I managed to finish the first book but I decided not to go on at that time.
 

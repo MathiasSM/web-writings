@@ -32,7 +32,7 @@ There are hobbies I take on at random times and during random periods of time. I
 $partial("templates/hobbies.html")$
 ```
 
-I could mention [collecting](/hobbies/collecting) as a cross-hobby activity as well.
+I could mention collecting as a cross-hobby activity as well.
 
 :::::
 

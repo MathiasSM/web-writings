@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./experience.schema.json
 - icon: work
-  name: "<strong>SWE at <em>Swiss Bank</em></strong> (current)"
+  name: "<strong><abbr title=\"Software Engineer\">SWE</abbr> at Julius Bär</strong> (current)"
 - icon: work
-  name: "<strong>SDE at Amazon</strong> for ~6 years"
+  name: "<strong><abbr title=\"Software Development Engineer\">SDE</abbr> at Amazon</strong> for ~6 years"
 - icon: work
-  name: "<strong>SWE at health research startup</strong> for ~1 year"
+  name: "<strong><abbr title=\"Software Engineer\">SWE</abbr> at health research startup</strong> for ~1 year"
 - icon: work
-  name: "<strong>SysAdmin at computing lab</strong> for ~2 years"
+  name: "<strong><abbr title=\"System Administrator\">SysAdmin</abbr> at computing lab</strong> for ~2 years"
 - icon: school
   name: "<strong>Engineering degree in Computer Science</strong> from <i>Universidad Simón Bolívar</i>"
 - icon: idea
