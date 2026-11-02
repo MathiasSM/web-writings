@@ -2,7 +2,7 @@
 templated: true
 title: "About me and this site"
 description: "About Mathias and his personal website."
-path: "/about"
+path: "/about-new"
 
 shareTitle: "About mathiassm.dev"
 # shareDescription: false

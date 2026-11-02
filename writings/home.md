@@ -4,7 +4,7 @@ templated: true
 title: "Mathias San Miguel"
 description: "Software Development Engineer. Programming Languages, Databases and Artificial Intelligence."
 path: "/"
-# aliases: ["/about"]
+aliases: ["/about"]
 
 shareTitle: "Mathias San Miguel - Software Development Engineer"
 # shareDescription: false
