@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./hobbies.schema.json
 - name: Manga
-  href: /hobbies/manga
+  # href: /blog/reading-manga
   icon: book
 - name: Drawing
   icon: sketching
@@ -27,5 +27,5 @@
 - name: Gunpla
   icon: robot
 - name: Collecting
-  href: /hobbies/collecting
+  href: /blog/collecting
   _show: false
