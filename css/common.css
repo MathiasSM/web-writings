@@ -1,3 +1,9 @@
 /* common classes *************************************************************/
 .unbreakable {white-space: nowrap;}
 .ipa {font-style: italic;}
+
+.site-aside {
+  & .controls {
+    margin-block: 0 .5rem;
+    }
+}
