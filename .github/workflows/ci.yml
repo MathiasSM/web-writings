@@ -1,5 +1,5 @@
 # Build and deploy the site from this repo's content, using the generator kit
-# released by hakyll-site (https://github.com/MathiasSM/hakyll-site).
+# released by Cozyll (https://github.com/MathiasSM/cozyll).
 #
 #   * gamma -> this repo's own GitHub Pages (preview), on pushes to `new`
 #   * prod  -> mathiassm.github.io, on pushes to `master`
@@ -9,10 +9,8 @@ on:
   push:
     branches: [new, master]
   pull_request:
-  # hakyll-site announces a new kit release (see its notify-content.yml)
   repository_dispatch:
     types: [kit-released]
-  # Refresh periodically to pick up kit + content drift
   schedule:
     - cron: "0 6 1 * *" # 1st of every month at 06:00 UTC
   workflow_dispatch:
@@ -21,7 +19,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: site-${{ github.ref }}
+  group: cozyll-${{ github.ref }}
   cancel-in-progress: ${{ github.ref != 'refs/heads/master' }}
 
 jobs:
@@ -35,11 +33,11 @@ jobs:
 
       - name: Download the generator kit
         run: |
-          curl -fsSL -o site-kit.tar.gz https://github.com/MathiasSM/hakyll-site/releases/latest/download/site-kit.tar.gz
-          curl -fsSL -o site-kit.tar.gz.sha256 https://github.com/MathiasSM/hakyll-site/releases/latest/download/site-kit.tar.gz.sha256
-          sha256sum -c site-kit.tar.gz.sha256
-          tar -xzf site-kit.tar.gz
-          chmod +x site
+          curl -fsSL -o cozyll-kit.tar.gz https://github.com/MathiasSM/Cozyll/releases/latest/download/cozyll-kit.tar.gz
+          curl -fsSL -o cozyll-kit.tar.gz.sha256 https://github.com/MathiasSM/Cozyll/releases/latest/download/cozyll-kit.tar.gz.sha256
+          sha256sum -c cozyll-kit.tar.gz.sha256
+          tar -xzf cozyll-kit.tar.gz
+          chmod +x cozyll
 
       - name: Install system dependencies
         run: |
@@ -51,10 +49,10 @@ jobs:
           CONTENT_DIR: content
           # prod domain on master, gamma domain elsewhere (incl. PRs and dispatch)
           SITE_DOMAIN: ${{ github.ref_name == 'master' && 'mathiassm.dev' || 'mathiassm.github.io/web-writings' }}
-        run: ./site build -v
+        run: ./cozyll build -v
 
       - name: Check
-        run: ./site check
+        run: ./cozyll check
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
