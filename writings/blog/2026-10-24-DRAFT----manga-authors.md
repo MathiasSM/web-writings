@@ -1,44 +1,16 @@
 ---
-title: Reading manga
-date: 2026-10-06
-description: From fiction to hobby-related non-fiction, but mostly a lot of manga
-path: /hobbies/manga
+title: Manga authors I follow
+date: 2026-11-02
+description: Some mangaka I enjoy
+path: /blog/manga-authors
 TOC: Contents
 rubyToggle: "[ふりがな]{lang=ja}"
-imagesToggle: "Images"
+draft: true
 ---
 
 ![Photo of books](https://placehold.co/600x400){.full}
 
-Truth be told, I used to read more, years ago. It's been a while since I picked up a novel and started reading it without getting distracted or interrupted by life events. I remember it all started with Harry Potter (even if right now I try to avoid anything related to it...), Narnia, some "young adult" books and a failed attempt to go through The Lord of the Rings in Spanish... It may have been the specific translation, but when I compared it to the English version, the latter was way easier to read for me. I managed to finish the first book but I decided not to go on at that time.
-
-Nowadays I tend to read manga, more than anything. As in **a lot of manga**. As of writing and according to my [MyAnimeList](https://myanimelist.net/profile/mathiassm) profile, I have completed 209 series (535 volumes), and I'm currently reading 358 (which is of course an exaggeration, as I basically mark anything I start as "currently reading" and only sometimes do I actually mark it as dropped if I'm sure I'm never finishing it). May sound lame, but I'm a bit proud of my ratings having a somewhat normal distribution centered at only 5.8, as most MAL users give very positively-skewed scores.
-
-Nobody asked, but I'll include here some recommendations...
-
-Now, to start, regardless of who you are, what you do, what you like, where you live, ... Read [One Piece](#one-piece). If you can only choose one thing to read, pick that.
-
----
-
-One Piece ([ワンピース]{lang=ja}) {#one-piece}
---------------------------------------------------------------------------------
-
-![*One Piece*, vol. 1, © Eiichiro Oda / Shueisha.](https://cdn.myanimelist.net/images/manga/2/253146.jpg)
-
-Eiichiro Oda's ([[尾田](-おだ)[栄一郎](-えいいちろう)]{lang=ja} [Wikipedia](https://en.wikipedia.org/wiki/Eiichiro_Oda)) _magnus opus_. A story of pirates in the high seas. A story of adventure, freedom and dreams. A story of tyranny, corruption and history. A story as big as its themes, its world, its characters, its heart.
-
-It's longer than most manga at over 1,000 chapters. It's not yet finished and many get intimidated by the sheer length, but I don't know a single person who doesn't love it once they start. I didn't even start reading it until 2025, after many failed attempts at the anime (dropping off _Alabasta_ twice, because of pacing issues of that arc's adaptation). Right now I'm caught up, and it's 100% the best thing I've been reading overall.
-
-It doesn't get good after 300 chapters. You just need to read 12 chapters to meet Chouchou. That was enough for me to get forever hooked.
-
-
-
----
-
-Some manga authors I follow
---------------------------------------------------------------------------------
-
-### Tatsuki Fujimoto ([[藤本](-ふじもと)タツキ]{lang=ja})
+## Tatsuki Fujimoto ([[藤本](-ふじもと)タツキ]{lang=ja})
 
 <small>[Wikipedia](https://en.wikipedia.org/wiki/Tatsuki_Fujimoto)</small>
 
@@ -56,7 +28,7 @@ However, it's a different manga of his that I hold close to my heart. One that d
 
 It eventually got an anime adaptation (which also made me cry), and a live-action adaptation, which apparently got a 16-minute standing ovation at the Venice Film Festival along with 5 awards. So yeah, I can't wait to watch it someday. In the meantime, I might re-read the manga, again. It's a single volume, go read it, or watch the animated movie adaptation. Either way bring tissues.
 
-### Tsugumi Ohba ([[大場](-おおば)つぐみ]{lang=ja}) and Takeshi Obata ([[小畑](-おばた)[健](-たけし)]{lang=ja})
+## Tsugumi Ohba ([[大場](-おおば)つぐみ]{lang=ja}) and Takeshi Obata ([[小畑](-おばた)[健](-たけし)]{lang=ja})
 
  <small>[Tsugumi Ohba's Wikipedia](https://en.wikipedia.org/wiki/Tsugumi_Ohba) · [Takeshi Obata's Wikipedia](https://en.wikipedia.org/wiki/Takeshi_Obata)</small>
 
@@ -75,7 +47,7 @@ Some time after (I was still in high-school), I fell in love with **[Bakuman](ht
 Their last one, [Platinum End](https://myanimelist.net/manga/93180) (プラチナエンド), I did read, but I can't really recommend it, partly because of the topic, but mostly the... let's call them "dangerous" answers it gives to the questions it raises. At least in my opinion.
 
 
-### Gege Akutami ([芥見](-あくたみ)[下々](-げげ))
+## Gege Akutami ([芥見](-あくたみ)[下々](-げげ))
 
 <small>[Wikipedia](https://en.wikipedia.org/wiki/Gege_Akutami)</small>
 
@@ -91,7 +63,7 @@ Their last one, [Platinum End](https://myanimelist.net/manga/93180) (プラチ�
 
 Its sequel, **[Jujutsu Kaisen Modulo](https://myanimelist.net/manga/186597) ([[呪術](-じゅじゅつ)[廻戦](-かいせん)≡]{lang=ja})** - a short three-volume spin-off set decades later, drawn by Yuuji Iwasaki ([[岩崎](-いわさき)[優次](-ゆうじ)]{lang=ja} <small>[Wikipedia](https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B4%8E%E5%84%AA%E6%AC%A1) · [MyAnimeList](https://myanimelist.net/people/48257/Yuuji_Iwasaki)</small>) - goes even harder into current issues: nationalism, racism, and anti-immigration sentiment, with the newly-arrived "aliens" standing in as the latest group Japan has to figure out how (or whether) to coexist with.
 
-### Hiromu Arakawa ([[荒川](-あらかわ)[弘](-ひろむ)]{lang=ja})
+## Hiromu Arakawa ([[荒川](-あらかわ)[弘](-ひろむ)]{lang=ja})
 
 <small>[Wikipedia](https://en.wikipedia.org/wiki/Hiromu_Arakawa)</small>
 
@@ -105,7 +77,7 @@ The fact that the magic system is based on knowledge and scientific training is 
 
 Arakawa also wrote **[Silver Spoon](https://myanimelist.net/manga/25096) (_Gin no Saji_)**, a far more chill story about an agricultural school, if you want proof of how wide her range is.
 
-### Kei Sasuga ([[流石](-さすが)[景](-けい)]{lang=ja})
+## Kei Sasuga ([[流石](-さすが)[景](-けい)]{lang=ja})
 
 <small>[Wikipedia](https://en.wikipedia.org/wiki/Kei_Sasuga)</small>
 
@@ -115,7 +87,7 @@ Arakawa also wrote **[Silver Spoon](https://myanimelist.net/manga/25096) (_Gin n
 
 The character development is genuinely incredible. She also wrote a later series, **[Issho ni Kurashite Ii desu ka](https://myanimelist.net/manga/156169/Issho_ni_Kurashite_Ii_desu_ka)**, that dials the ecchi way down and just focuses on human relationships - because that's always been the interesting part. Her earlier **[Good Ending](https://myanimelist.net/manga/15578) (_GE_)** is worth a look too.
 
-### Tsubasa Yamaguchi ([[山口](-やまぐち)つばさ]{lang=ja})
+## Tsubasa Yamaguchi ([[山口](-やまぐち)つばさ]{lang=ja})
 
 <small>[Wikipedia](https://en.wikipedia.org/wiki/Tsubasa_Yamaguchi)</small>
 
@@ -125,7 +97,7 @@ The character development is genuinely incredible. She also wrote a later series
 
 What I love about it is how honest it is about practice versus talent, and about why art even matters in the first place. It doesn't romanticize the starving artist, and it doesn't pretend hard work alone is enough; it sits in that uncomfortable middle. She also adapted Makoto Shinkai's [She and Her Cat](https://myanimelist.net/manga/96334). It hits extra close to home because my sister is an artist - I read most of it while she was in uni, and a lot of the fears and frustrations it paints felt like reading about someone I know.
 
-### Yoru Sumino ([[住野](-すみの)よる]{lang=ja})
+## Yoru Sumino ([[住野](-すみの)よる]{lang=ja})
 
 <small>[Wikipedia](https://en.wikipedia.org/wiki/Yoru_Sumino)</small>
 
@@ -136,24 +108,11 @@ What I love about it is how honest it is about practice versus talent, and about
 Sumino is best known for **[I Want to Eat Your Pancreas](https://myanimelist.net/manga/104538)**; the art here is by Zui Nieki ([[二駅](-にえき)ずい]{lang=ja}), and it's short enough to binge in a sitting.
 
 
----
+Some other manga
+------------------------------------------------------------------
 
-Other manga
---------------------------------------------------------------------------------
+These are manga from authors I still don't know enough. These were good enough that I needed to mention them here, though.
 
-Perhaps I _should_ follow these authors for upcoming stories.
-
-### Attack on Titan ([[進撃](-しんげき)の[巨人](-きょじん)]{lang=ja})
-
-![*Attack on Titan*, vol. 1, © Hajime Isayama / Kodansha.](https://cdn.myanimelist.net/images/manga/2/37846.jpg)
-
-More recent, and some would say more modern. In **[Attack on Titan](https://myanimelist.net/manga/23390)** Humanity has been reduced and secluded within tall walls to flee from the titans, creatures with no intellect but a constant unrelenting drive to eat said humans. After 100 years of peace within the walls, which are taller than those titans by a long shot, a _colossal_ titan appears, looking over the wall as if it weren't 50 meters tall, kicks a hole into it, and disappears, letting in a horde of titans. The story will follow a few cadets who later join the anti-titan military force, with the impossible goal of eradicating them, and freeing humanity.
-
-It's a tricky entry, because beyond a surface of action and gore, it deals with darker themes of politics, history, fascism, genocide, wrapped in the fantasy mystery of the titans. I enjoyed the foreshadowing, the mystery, the incredible revelations every once in a while (most readers remember the exact chapter number or name where certain questions were answered). The author started the manga pretending it was the usual action-packed fantasy nonsense, only to uncover an increasingly complicated world little by little, increasing tension and worries everywhere.
-
-It's not perfect; in particular, certain "answers" given at the very end were _controversial_ to say the least (especially looking at the real world right now...). You don't have to agree with the answers given (the author himself doesn't even seem to agree, either, from what I've read), but the fact it made people question and discuss these topics is worth a lot, I feel.
-
-It's by Hajime Isayama ([[諫山](-いさやま)[創](-はじめ)]{lang=ja}), and as far as I know he hasn't really done anything else major - this is his whole thing, which honestly makes the consistency of the mystery even more impressive.
 
 ### The Fragrant Flower Blooms with Dignity ([[薫](-かお)る[花](-はな)は[凛](-りん)と[咲](-さ)く]{lang=ja})
 
@@ -172,35 +131,12 @@ A more recent read and still kinda short. **[After God](https://myanimelist.net/
 What got me is how it explores faith: why people worship gods, whether a god is still a god if you can kill it, and what happens to belief when the divine shows up and turns out to be terrifying. It's by Sumi Eno ([[江野](-えの)[朱美](-すみ)]{lang=ja}), who also wrote **[Ajuutan](https://myanimelist.net/manga/103209)**, and it's got a rawness to it I really like.
 
 
----
-
-About manhwa, the Korean variety of comics
---------------------------------------------------------------------------------
-
-::::: figures
-
-![*Omniscient Reader's Viewpoint*, vol. 1, © singNsong & Sleepy-C / Naver Webtoon.](https://cdn.myanimelist.net/images/manga/2/238873.jpg)
-
-![*SSS-Class Revival Hunter*, vol. 1, © Sinnoa & Bill K / KakaoPage.](https://cdn.myanimelist.net/images/manga/1/263446.jpg)
-
-:::::
-
-[Omniscient Reader's Viewpoint](https://myanimelist.net/manga/132214) ([전지적 독자 시점]{lang=ko}) is the best example I've ever seen of taking _deus ex machina_ and making it the entire driving force of the story, and yet executing that idea flawlessly.
-
-
-[SSS-Class Revival Hunter](https://myanimelist.net/manga/146909) ([SSS급 죽어야 사는 헌터]{lang=ko}) starts from a weird initial concept and turns into a meta-study of storytelling itself.
-
-There are plenty more I won't go deep into: [Your Throne](https://myanimelist.net/manga/130832) ([하루만 네가 되고 싶어]{lang=ko}), [Tower of God](https://myanimelist.net/manga/122663) ([신의 탑]{lang=ko}), [Dice](https://myanimelist.net/manga/147443) ([다이스]{lang=ko}), and on and on.
-
----
-
 
 A notice on copyright...
 --------------------------------------------------------------------------------
 
 *All images and manga excerpts are used for the purpose of review and/or commentary. All characters, titles and artwork remain © their respective authors and publishers:*
 
-- **One Piece** © Eiichiro Oda / Shueisha
 - **Chainsaw Man** © Tatsuki Fujimoto / Shueisha
 - **Death Note**, **Bakuman** © Tsugumi Ohba & Takeshi Obata / Shueisha
 - **Jujutsu Kaisen** © Gege Akutami / Shueisha
@@ -209,9 +145,5 @@ A notice on copyright...
 - **Domestic Girlfriend** © Kei Sasuga / Kodansha
 - **Blue Period** © Tsubasa Yamaguchi / Kodansha
 - **I Have a Secret** © Yoru Sumino & Zui Nieki / Shinchosha
-- **Attack on Titan** © Hajime Isayama / Kodansha
 - **The Fragrant Flower Blooms with Dignity** © Saka Mikami / Kodansha
 - **After God** © Sumi Eno / Shogakukan
-- **Omniscient Reader's Viewpoint** © singNsong & Sleepy-C / Naver Webtoon
-- **SSS-Class Revival Hunter** © Sinnoa & Bill K / KakaoPage
-
