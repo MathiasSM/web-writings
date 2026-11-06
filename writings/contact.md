@@ -2,6 +2,7 @@
 title: "Get in Touch!"
 description: "Here are some ways to contact me online!"
 path: "/contact"
+lastModifiedAt: 2026-11-03
 nav: Contact
 navOrder: 4
 type: page

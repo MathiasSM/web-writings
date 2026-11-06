@@ -5,6 +5,7 @@ group: showcase
 description: "Information, documentation and more, from different projects I've worked on."
 type: page
 path: "/showcase"
+lastModifiedAt: 2026-11-03
 nav: Showcase
 navOrder: 1
 
