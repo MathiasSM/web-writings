@@ -25,7 +25,7 @@
         height: 100%;
         object-fit: contain;
       }
-      svg { stroke: var(--color-border-strong); fill:none;}
+      svg { stroke: var(--color-surface-strong-border); fill:none;}
     }
   }
 }
@@ -38,7 +38,7 @@
   gap: 1rem;
   justify-content: space-evenly;
 
-  .item {
+  & .item {
     color: inherit;
     display: grid;
     grid-template-columns: 2rem 1fr;
@@ -47,25 +47,20 @@
     padding: .5rem 1rem;
 
     > * + * { padding-inline-start: 1rem;}
-    > .icon {
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
-    }
-    background: var(--color-surface);
-    svg { stroke: var(--color-border); fill:none;}
+    background: var(--color-surface-weak);
+    svg { stroke: var(--color-fg-muted); fill:none;}
+    color: var(--color-fg-muted);
     font-weight: bold;
-    color: var(--color-text-muted);
   }
   a.item {
     cursor: pointer;
-    color: var(--color-text);
-    svg { stroke: var(--color-border-strong); fill:none;}
-    background: var(--color-border);
+    color: var(--color-fg);
+    svg { stroke: var(--color-surface-strong-border);}
+    background: var(--color-surface-strong);
     &:hover {
-      /* color: var(--color-on-brand); */
-      /* svg { stroke: var(--color-on-brand); fill:none;} */
-      background: var(--color-highlight);
+      color: var(--color-fg);
+      svg { stroke: var(--color-fg);}
+      background: var(--color-bg-highlight);
     }
   }
 }
