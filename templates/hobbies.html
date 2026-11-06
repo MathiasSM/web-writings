@@ -3,7 +3,7 @@
     $for(hobbies)$
         <li>
             $if(href)$<a href="$href$" class="item">$else$<span class="item">$endif$
-                $if(iconRaw)$$iconRaw$$endif$
+                $if(iconRaw)$<span aria-hidden="true">$iconRaw$</span>$endif$
                 <span>$name$</span>
             $if(href)$</a>$else$</span>$endif$
         </li>
